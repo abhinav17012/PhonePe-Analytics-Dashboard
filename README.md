@@ -258,8 +258,14 @@ This provides an application-like interface, improving usability and enabling fa
 6.Screenshots
 
 Show what the dashboard looks like. Example:
+
+1.Overview Page
 <img width="1920" height="1080" alt="Screenshot (1225)" src="https://github.com/user-attachments/assets/316d2001-bab6-4e85-a0a7-d5231871a362" />
+
+2.Transactions Page
 <img width="1920" height="1080" alt="Screenshot (1226)" src="https://github.com/user-attachments/assets/e5ee66c1-3cc4-44df-9505-515b47bb8ab3" />
+
+3.Users Page
 <img width="1920" height="1080" alt="Screenshot (1227)" src="https://github.com/user-attachments/assets/017d8e68-da39-49f8-87f1-02353e9a823a" />
 
 
